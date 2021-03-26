@@ -13,4 +13,4 @@ you can open this program which has been converted to exe by notepad++ and searc
 3. Open line 2 and change ```const logs = new Webhook("your webhook links");``` to your webhook link
 4. after finishing all this, you can convert this program to exe
 
-# anyone selling this program is idioy human.
+# anyone selling this program is idiocy human.
