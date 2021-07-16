@@ -5,7 +5,7 @@ simple rdp/windows stealer written on node js (undetectable program) with discor
 basically this program need administrator access to change ```net user password``` and will automatically send IP,Username,Password on Discord webhook. This program also will change windows password randomly.
 
 # how to detect this program
-you can open this program which has been converted to exe by notepad++ and search keyword ```ner user```
+you can open this program which has been converted to exe by notepad++ and search keyword ```net user```
 
 # how to build?
 1. You Only Need Node.js https://nodejs.org/en/download/
